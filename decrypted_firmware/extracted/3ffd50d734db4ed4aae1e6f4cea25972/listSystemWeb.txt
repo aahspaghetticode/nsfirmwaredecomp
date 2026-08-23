@@ -1,0 +1,7 @@
+^https://([0-9A-Za-z\-]+\.)*nintendo\.net(/|$)
+^https://([0-9A-Za-z\-]+\.)*nintendo\.com(/|$)
+^https://([0-9A-Za-z\-]+\.)*nintendo\.(co\.jp|eu|co\.uk|es|pt|ch|at|de|nl|be|ru|fr|it|co\.za|co\.kr|tw|com\.hk|com\.au|ca|co\.nz)(/|$)
+^https://([0-9A-Za-z\-]+\.)*nintendo-europe\.com(/|$)
+^https://([0-9A-Za-z\-]+\.)*nintendoservicecentre\.co\.uk(/|$)
+^https://([0-9A-Za-z\-]+\.)*nintendoswitch\.cn(/|$)
+^https://([0-9A-Za-z\-]+\.)*nintendoswitch\.com\.cn(/|$)

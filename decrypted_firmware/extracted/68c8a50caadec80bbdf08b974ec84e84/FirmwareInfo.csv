@@ -1,0 +1,7 @@
+JoyLeft,BT,0420,ukyosakyo_ep2_ota.bin
+JoyRight,BT,0420,ukyosakyo_ep2_ota.bin
+JoyRight,MCU,0920,tera_ota.bin
+FullKey,BT,0421,raizo_ep2_ota.bin
+FullKey,MCU,0403,tera_fullkey_ota.bin
+FullKey,USB,01100210,ProController.dfu
+Palma,BT,1200,PalmaFw.bin

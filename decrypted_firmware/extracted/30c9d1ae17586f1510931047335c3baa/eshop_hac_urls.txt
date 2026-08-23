@@ -1,0 +1,1 @@
+^https://hac\.[0-9A-Za-z\-]+\.savanna\.srv\.nintendo\.net(/|$)

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="viewport"
+  content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<style>
+.skin_button {
+  position: relative;
+}
+
+
+@supports (color-scheme: dark) {
+  @media (prefers-color-scheme: dark) {
+
+
+
+    .skin_button {
+      --outer-border-width: 1px;
+      --outer-border-radius: 2px;
+      --inner-border-width: 1px;
+      --inner-border-radius: calc(var(--outer-border-radius) - var(--outer-border-width));
+      --border-total-width: calc(var(--outer-border-width) + var(--inner-border-width));
+      --content-border-radius: calc(var(--outer-border-radius) - var(--border-total-width));
+
+      --bg-gradient-start-color: #373737;
+      --bg-gradient-end-color: #2A2A2A;
+
+      background: linear-gradient(var(--bg-gradient-start-color), var(--bg-gradient-end-color));
+      border: var(--border-total-width) transparent solid;
+      border-radius: var(--content-border-radius);
+      overflow: visible;
+    }
+
+    .skin_button::before,
+    .skin_button::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+
+
+
+    .skin_button::before {
+      --outer-border-gradient-start-color: #8C8C8C;
+      --outer-border-gradient-end-color: #6D6D6D;
+
+      margin: calc(var(--border-total-width) * -1);
+      border-radius: var(--outer-border-radius);
+      border: var(--outer-border-width) solid transparent;
+
+      background: linear-gradient(var(--outer-border-gradient-start-color),
+          var(--outer-border-gradient-end-color) 50%%) border-box;
+      mask: linear-gradient(#FFF, #FFF) padding-box, linear-gradient(#FFF, #FFF) border-box;
+      mask-composite: exclude;
+    }
+
+
+    .skin_button::after {
+      --inner-border-color: #373737;
+
+      margin: calc(var(--inner-border-width) * -1);
+      border: var(--inner-border-width) solid var(--inner-border-color);
+      border-radius: var(--inner-border-radius);
+    }
+  }
+}
+</style>
+<style>
+  body,
+  main,
+  h1,
+  h2,
+  p,
+  button {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+
+  html,
+  body {
+    width: 100%%;
+    height: 100%%;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  main {
+    width: 770px;
+  }
+
+  h1 {
+    margin-top: 32px;
+    font-size: 16px;
+    line-height: 32px;
+  }
+
+  h2 {
+    margin-top: 6px;
+    font-size: 20px;
+    line-height: 36px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  p,
+  button {
+    font-size: 20px;
+  }
+
+  p {
+    margin-top: 20px;
+    word-wrap: break-word;
+    line-height: 36px;
+  }
+
+  button {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+  }
+
+  nobr {
+    display: inline;
+    white-space: nowrap;
+  }
+
+  .background_bg {
+    background: #F8F8F8;
+  }
+
+  .text_main {
+    color: #000000;
+  }
+
+  .text_sub {
+    color: #A0A0A0;
+  }
+
+
+
+  h2 {
+    color: #A0A0A0;
+  }
+
+
+
+  @supports (color-scheme: dark) {
+    @media (prefers-color-scheme: dark) {
+      .background_bg {
+        background-color: #383838;
+      }
+
+      .text_main {
+        color: #FFFFFF;
+      }
+
+      .text_sub {
+        color: #9D9D9D;
+      }
+
+      h2 {
+        color: #9D9D9D;
+      }
+    }
+  }
+</style>
+
+<body class="background_bg">
+  <main>
+    <h1 class="text_sub">%s</h1>
+    %s
+    <p class="text_main">%s
+    <p class="text_main" %s>
+      <button class="text_main skin_button">%s</button>
+  </main>
+  <script>
+    var timeoutID = null;
+    var isLocked = false;
+    function setTimeoutToClearLock() {
+      clearTimeout(timeoutID);
+      timeoutID = setTimeout(() => {
+        isLocked = false;
+      }, 1000);
+    }
+    addEventListener("DOMContentLoaded", () => {
+      document.querySelector("button").onclick = () => {
+        if (isLocked) {
+          return;
+        }
+        isLocked = true;
+        setTimeoutToClearLock();
+        nxReload();
+      };
+      nx.footer.setAssign("B", null, () => {
+        if (isLocked) {
+          return;
+        }
+        isLocked = true;
+        setTimeoutToClearLock();
+        nxGoBack();
+      });
+    });
+    onpopstate = () => {
+      location.reload();
+    };
+  </script>
+</body>

@@ -1,0 +1,7 @@
+JoyLeft,BT,038b
+JoyRight,BT,038b
+JoyRight,MCU,061a
+FullKey,BT,0348
+FullKey,MCU,0305
+FullKey,USB,010a0200
+Palma,BT,1200

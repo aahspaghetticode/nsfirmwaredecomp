@@ -1,0 +1,10 @@
+{
+  "list": [
+    {
+      "file": "eshop_hac_prod.p12",
+      "targetApplets": ["SystemWebApplet"],
+      "targetUrlsFile": "eshop_hac_urls.txt",
+      "password": "jAtp29omQRypKE09"
+    }
+  ]
+}

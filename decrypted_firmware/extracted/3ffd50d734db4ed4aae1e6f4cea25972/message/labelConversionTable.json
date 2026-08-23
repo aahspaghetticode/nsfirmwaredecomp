@@ -1,0 +1,531 @@
+{
+    "Cmn1BtnDlg_DlgBtnOK": {
+        "Ounce": "Cmn_DlgBtnOk",
+        "NX": "CrsCmn_1BtnDlgBtnOK"
+    },
+    "Cmn2BtnDlg_DlgBtnOK": {
+        "Ounce": "Cmn_DlgBtnOk",
+        "NX": "CrsCmn_2BtnDlgBtnOK"
+    },
+    "Cmn2BtnDlg_DlgBtnCancel": {
+        "Ounce": "Cmn_DlgBtnCancel",
+        "NX": "CrsCmn_2BtnDlgBtnCancel"
+    },
+    "CmnErr_CmnErrCode": {
+        "Ounce": "JetCrsCmnErr_CmnErrCode",
+        "NX": "CrsCmn_ErrDlgDlgTitle"
+    },
+    "CmnTTS_InputPasswordProtected": {
+        "Ounce": "JetCrsCmnTTS_InputPasswordProtected"
+    },
+    "CmnTTS_TextField": {
+        "Ounce": "JetCrsCmnTTS_TextField"
+    },
+    "BootNotAvailable_DlgBody": {
+        "Ounce": "JetCrsBootNotAvailable_DlgBody",
+        "NX": "CrsStart_NotAvailableThisFunctionDlgDlgBody"
+    },
+    "Nup_DlgBodyFirstBoot": {
+        "NX": "CrsStart_NupRequiredDlgBody"
+    },
+    "Nup_DlgBodyRequireNup": {
+        "Ounce": "Cmn_DlgBody_ConfirmSystemUpdate",
+        "NX": "CrsMain_ConfirmSystemUpdateDlgBody"
+    },
+    "Nup_DlgBtnUpdate": {
+        "Ounce": "Cmn_DlgBtnUpdate",
+        "NX": "CrsMain_UpdateDlgBtn"
+    },
+    "Nup_DlgBtnCancel": {
+        "Ounce": "Cmn_DlgBtnCancel",
+        "NX": "CrsMain_CancelDlgBtn"
+    },
+    "QuitLocalCommunication_DlgBody": {
+        "Ounce": "Cmn_DlgBody_ConfirmAppDisconnectRequired",
+        "NX": "CrsMain_DlgBody_ConfirmAppDisconnectRequired"
+    },
+    "QuitLocalCommunication_DlgBtnQuit": {
+        "Ounce": "Cmn_DlgBtnCutComm",
+        "NX": "CrsMain_DlgBtnCutComm"
+    },
+    "QuitLocalCommunication_DlgBtnCancel": {
+        "Ounce": "Cmn_DlgBtnCancel",
+        "NX": "CrsMain_DlgBtnCancel"
+    },
+    "Browse_FooterOK": {
+        "Ounce": "Cmn_FooterText_Ok",
+        "NX": "CrsMainFooterABtnFunction"
+    },
+    "Browse_FooterBack": {
+        "Ounce": "Cmn_FooterText_Back",
+        "NX": "CrsMainFooterBBtnFunction"
+    },
+    "Browse_FooterEnd": {
+        "Ounce": "Cmn_FooterText_End",
+        "NX": "CrsMainFooterXBtnFunction"
+    },
+    "Browse_FooterInfo": {
+        "Ounce": "JetCrsBrowse_FooterInfo",
+        "NX": "CrsMainFooterPlusMinusBtnFunction"
+    },
+    "Browse_FooterCursor": {
+        "Ounce": "JetCrsBrowse_FooterCursor",
+        "NX": "CrsMain_FooterLstickCursor"
+    },
+    "Browse_FooterPointer": {
+        "Ounce": "JetCrsBrowse_FooterPointer",
+        "NX": "CrsMain_FooterLstickPointer"
+    },
+    "Browse_FooterZoom": {
+        "Ounce": "JetCrsBrowse_FooterZoom",
+        "NX": "CrsMainFooterRStickFunction"
+    },
+    "WebContent_BodyFileNotSelected": {
+        "Ounce": "JetCrsWebContent_BodyFileNotSelected",
+        "NX": "CrsWebContentBodyNoFileSelected"
+    },
+    "WebContent_BtnFileSelect": {
+        "Ounce": "JetCrsWebContent_BtnFileSelect",
+        "NX": "CrsWebContentBtnFileSelectButton"
+    },
+    "WebContent_BtnSubmit": {
+        "Ounce": "JetCrsWebContent_BtnSubmit",
+        "NX": "CrsWebContentBtnSubmitButton"
+    },
+    "WebContent_BtnReset": {
+        "Ounce": "JetCrsWebContent_BtnReset",
+        "NX": "CrsWebContentBtnResetButton"
+    },
+    "PageInfo_DlgTitle": {
+        "Ounce": "JetCrsPageInfo_DlgTitle",
+        "NX": "CrsMain_PageInfoDlgDlgTitle"
+    },
+    "PageInfo_DlgBodyAddress": {
+        "Ounce": "JetCrsPageInfo_DlgBodyAddress",
+        "NX": "CrsMain_PageInfoDlgDlgBodyAddress"
+    },
+    "PageInfo_DlgBodyRootCA": {
+        "Ounce": "JetCrsPageInfo_DlgBodyRootCA",
+        "NX": "CrsMain_PageInfoDlgDlgBodyRootCA"
+    },
+    "PageInfo_DlgBtnOK": {
+        "Ounce": "Cmn_DlgBtnOk",
+        "NX": "CrsMain_PageInfoDlgDlgBtn"
+    },
+    "PageInfoSSL_DlgBodySecurity": {
+        "Ounce": "JetCrsPageInfoSSL_DlgBodySecurity",
+        "NX": "CrsMain_PageInfoDlgDlgBodySecurity"
+    },
+    "PageInfoSSL_DlgBodyValid": {
+        "Ounce": "JetCrsPageInfoSSL_DlgBodyValid",
+        "NX": "CrsMain_PageInfoDlgDlgBodySecurityValid"
+    },
+    "PageInfoSSL_DlgBodyNonSSL": {
+        "Ounce": "JetCrsPageInfoSSL_DlgBodyNonSSL",
+        "NX": "CrsMain_PageInfoDlgDlgBodySecurityNonSSL"
+    },
+    "PageInfoSSL_DlgBodyInvalid": {
+        "Ounce": "JetCrsPageInfoSSL_DlgBodyInvalid",
+        "NX": "CrsMain_PageInfoDlgDlgBodySecurityInvalid"
+    },
+    "PageInfoSSL_DlgBodyIncludeNonSSL": {
+        "Ounce": "JetCrsPageInfoSSL_DlgBodyIncludeNonSSL",
+        "NX": "CrsMain_PageInfoDlgDlgBodySecurityIncludedNonSSL"
+    },
+    "PageInfoSSL_DlgBodyIncludeInvalid": {
+        "Ounce": "JetCrsPageInfoSSL_DlgBodyIncludeInvalid",
+        "NX": "CrsMain_PageInfoDlgDlgBodySecurityIncludedInvalid"
+    },
+    "SSL_DlgBodyCertificateSubject": {
+        "Ounce": "JetCrsSSL_DlgBodyCertificateSubject",
+        "NX": "CrsCmn_SSLDlgBodyCertificateSubject"
+    },
+    "SSL_DlgBodyCertificateIssuer": {
+        "Ounce": "JetCrsSSL_DlgBodyCertificateIssuer",
+        "NX": "CrsCmn_SSLDlgBodyCertificateIssuer"
+    },
+    "SSL_DlgBodyIssueDate": {
+        "Ounce": "JetCrsSSL_DlgBodyIssueDate",
+        "NX": "CrsCmn_SSLDlgBodyIssueDate"
+    },
+    "SSL_DlgBodyExpirationDate": {
+        "Ounce": "JetCrsSSL_DlgBodyExpirationDate",
+        "NX": "CrsCmn_SSLDlgBodyExpirationDate"
+    },
+    "SSL_DlgBodyYear": {
+        "Ounce": "JetCrsSSL_DlgBodyYear",
+        "NX": "CrsSSLDlgBodyYear"
+    },
+    "SSL_DlgBodyMonth": {
+        "Ounce": "JetCrsSSL_DlgBodyMonth",
+        "NX": "CrsSSLDlgBodyMonth"
+    },
+    "SSL_DlgBodyDay": {
+        "Ounce": "JetCrsSSL_DlgBodyDay",
+        "NX": "CrsSSLDlgBodyDay"
+    },
+    "SSL_DlgBodyHour": {
+        "Ounce": "JetCrsSSL_DlgBodyHour",
+        "NX": "CrsSSLDlgBodyHour"
+    },
+    "SSL_DlgBodyMinute": {
+        "Ounce": "JetCrsSSL_DlgBodyMinute",
+        "NX": "CrsSSLDlgBodyMinute"
+    },
+    "SSL_DlgBodySecond": {
+        "Ounce": "JetCrsSSL_DlgBodySecond",
+        "NX": "CrsSSLDlgBodySecond"
+    },
+    "SSL_DlgBodyYMDHMS": {
+        "Ounce": "JetCrsSSL_DlgBodyYMDHMS",
+        "NX": "CrsSSLDlgBodyYMDHMS"
+    },
+    "SSLErr_DlgBodyAccessAllowable": {
+        "Ounce": "JetCrsSSLErr_DlgBodyAccessAllowable",
+        "NX": "CrsSSL_CertCautionDlgBodyAllowable"
+    },
+    "SSLErr_DlgBodyAccessNotAllowable": {
+        "Ounce": "JetCrsSSLErr_DlgBodyAccessNotAllowable",
+        "NX": "CrsSSL_CertCautionDlgBodyNotAllowable"
+    },
+    "SSLErr_DlgBodyCauseOfError": {
+        "Ounce": "JetCrsSSLErr_DlgBodyCauseOfError",
+        "NX": "CrsCmn_SSLDlgBodyError"
+    },
+    "SSLErr_DlgBtnPermitAccess": {
+        "Ounce": "JetCrsSSLErr_DlgBtnPermitAccess",
+        "NX": "CrsSSL_CertCautionDlgBtnPermission"
+    },
+    "SSLErr_DlgBtnNotPermitAccess": {
+        "Ounce": "Cmn_DlgBtnCancel",
+        "NX": "CrsSSL_CertCautionDlgDlgBtnCancel"
+    },
+    "AuthDlg_DlgTitle": {
+        "Ounce": "JetCrsAuthDlg_DlgTitle",
+        "NX": "CrsOthDlg_AuthDlgTitle"
+    },
+    "AuthDlg_DlgBodyUserName": {
+        "Ounce": "JetCrsAuthDlg_DlgBodyUserName",
+        "NX": "CrsOthDlg_AuthDlgBodyUser"
+    },
+    "AuthDlg_DlgBodyPassword": {
+        "Ounce": "JetCrsAuthDlg_DlgBodyPassword",
+        "NX": "CrsOthDlg_AuthDlgBodyPass"
+    },
+    "AuthDlg_DlgBtnLogin": {
+        "Ounce": "JetCrsAuthDlg_DlgBtnLogin",
+        "NX": "CrsOthDlg_AuthDlgDlgBtnLogin"
+    },
+    "FormResubmitDlg_DlgBody": {
+        "Ounce": "JetCrsFormResubmitDlg_DlgBody",
+        "NX": "CrsOthDlg_ResubmitFormDlgBody"
+    },
+    "FormResubmitDlg_DlgBtnResubmit": {
+        "Ounce": "JetCrsFormResubmitDlg_DlgBtnResubmit",
+        "NX": "CrsOthDlg_ResubmitFormDlgBtnContinue"
+    },
+    "FormResubmitDlg_DlgBtnCancel": {
+        "Ounce": "Cmn_DlgBtnCancel",
+        "NX": "CrsOthDlg_ResubmitFormDlgBtnCancel"
+    },
+    "JSDlg_DlgTitle": {
+        "Ounce": "JetCrsJSDlg_DlgTitle",
+        "NX": "CrsOthDlgDlgTitle"
+    },
+    "JSTimeoutDlg_DlgBody": {
+        "Ounce": "JetCrsJSTimeoutDlg_DlgBody",
+        "NX": "CrsOthDlg_NomDlgDlgBodyJSTimeout"
+    },
+    "JSTimeoutDlg_DlgBtnWait": {
+        "Ounce": "JetCrsJSTimeoutDlg_DlgBtnWait",
+        "NX": "CrsOthDlg_JSTimeoutDlgBtnContinue"
+    },
+    "JSTimeoutDlg_DlgBtnCancel": {
+        "Ounce": "Cmn_DlgBtnCancel",
+        "NX": "CrsOthDlg_JSTimeoutDlgBtnCancel"
+    },
+    "DDList_DlgBodyItemOver": {
+        "Ounce": "JetCrsDDList_DlgBodyItemOver",
+        "NX": "CrsDDList_ItemOverDlgBody"
+    },
+    "DDList_DlgBodyNoItem": {
+        "Ounce": "JetCrsDDList_DlgBodyNoItem",
+        "NX": "CrsDDList_NoItemDlgBody"
+    },
+    "DDList_BtnOK": {
+        "Ounce": "JetCrsDDList_BtnOK",
+        "NX": "CrsMDDListDlgBtnOK"
+    },
+    "PWSave_DlgBodyFirstSave": {
+        "Ounce": "JetCrsPWSave_DlgBodyFirstSave",
+        "NX": "CrsPW_PWSaveDlgDlgBody"
+    },
+    "PWSave_DlgBodyUpdate": {
+        "Ounce": "JetCrsPWSave_DlgBodyUpdate",
+        "NX": "CrsPW_PWUpdateDlgDlgBody"
+    },
+    "PWSave_DlgBodyURL": {
+        "Ounce": "JetCrsPWSave_DlgBodyURL",
+        "NX": "CrsPW_PWSaveDlgDlgBodyURL"
+    },
+    "PWSave_DlgBtnSave": {
+        "Ounce": "JetCrsPWSave_DlgBtnSave",
+        "NX": "CrsPW_PWSaveDlgDlgBtnSave"
+    },
+    "PWSave_DlgBtnUpdate": {
+        "Ounce": "JetCrsPWSave_DlgBtnUpdate",
+        "NX": "CrsPW_PWUpdateDlgDlgBtnUpdate"
+    },
+    "PWSave_DlgBtnNotNow": {
+        "Ounce": "JetCrsPWSave_DlgBtnNotNow",
+        "NX": "CrsPW_PWSaveDlgDlgBtnNotNow"
+    },
+    "PWSave_DlgBtnNeverSave": {
+        "Ounce": "JetCrsPWSave_DlgBtnNeverSave",
+        "NX": "CrsPW_PWSaveDlgDlgBtnNeverSave"
+    },
+    "InputText_InputUserName": {
+        "Ounce": "JetCrsInputText_InputUserName",
+        "NX": "CrsInputText_IDHeader"
+    },
+    "InputText_InputPassword": {
+        "Ounce": "JetCrsInputText_InputPassword",
+        "NX": "CrsInputText_PassWordHeader"
+    },
+    "InputText_SWKBDKeyTopSearch": {
+        "Ounce": "JetCrsInputText_SWKBDKeyTopSearch",
+        "NX": "CrsSWKBD_KeyTopSearch"
+    },
+    "InputValidation_ValueMissing": {
+        "Ounce": "JetCrsInputValidation_ValueMissing",
+        "NX": "CrsInputValidationDlgBodyValueMissing"
+    },
+    "InputValidation_PatternMismatch": {
+        "Ounce": "JetCrsInputValidation_PatternMismatch",
+        "NX": "CrsInputValidationDlgBodyPatternMismatch"
+    },
+    "InputValidation_TypeMismatch": {
+        "Ounce": "JetCrsInputValidation_TypeMismatch",
+        "NX": "CrsInputValidationDlgBodyTypeMismatch"
+    },
+    "InputValidation_StepMismatch": {
+        "Ounce": "JetCrsInputValidation_StepMismatch",
+        "NX": "CrsInputValidationDlgBodyStepMismatch"
+    },
+    "InputValidation_TooLong": {
+        "Ounce": "JetCrsInputValidation_TooLong",
+        "NX": "CrsInputValidationDlgBodyTooLong"
+    },
+    "InputValidation_TooShort": {
+        "Ounce": "JetCrsInputValidation_TooShort",
+        "NX": "CrsInputValidationDlgBodyTooShort"
+    },
+    "InputValidation_RangeOverflow": {
+        "Ounce": "JetCrsInputValidation_RangeOverflow",
+        "NX": "CrsInputValidationDlgBodyRangeOverflow"
+    },
+    "InputValidation_RangeUnderflow": {
+        "Ounce": "JetCrsInputValidation_RangeUnderflow",
+        "NX": "CrsInputValidationDlgBodyRangeUnderflow"
+    },
+    "BeforeUnload_DlgBody": {
+        "Ounce": "JetCrsBeforeUnload_DlgBody",
+        "NX": "CrsMain_DlgBodyBeforeUnload"
+    },
+    "BeforeUnload_DlgBtnMove": {
+        "Ounce": "JetCrsBeforeUnload_DlgBtnMove",
+        "NX": "CrsCmn_2BtnDlgBtnOK"
+    },
+    "ConfirmEnd_DlgBody": {
+        "Ounce": "JetCrsConfirmEnd_DlgBody",
+        "NX": "CrsMain_DlgBodyConfirmEnd"
+    },
+    "ConfirmEnd_DlgBtnEnd": {
+        "Ounce": "Cmn_DlgBtnCloseApp",
+        "NX": "CrsCmn_2BtnDlgBtnOK"
+    },
+    "AutoTermination_DlgBody": {
+        "Ounce": "JetCrsAutoTermination_DlgBody",
+        "NX": "CrsCmn_AutomaticterminationDlgBody"
+    },
+    "AllowListErr_PageBody": {
+        "Ounce": "JetCrsAllowListErr_PageBody",
+        "NX": "CrsErr_AllowListDlgBody"
+    },
+    "AllowListErr_PageBtn": {
+        "Ounce": "JetCrsAllowListErr_PageBtn",
+        "NX": "CrsErr_AllowListDlgBtn"
+    },
+    "LaJumpLimitErr_DlgBody": {
+        "Ounce": "JetCrsLaJumpLimitErr_DlgBody",
+        "NX": "CrsErr_LaJumpLimitDlgBody"
+    },
+    "WindowOpenLimitErr_DlgBody": {
+        "Ounce": "JetCrsWindowOpenLimitErr_DlgBody",
+        "NX": "CrsWindowOpenLimitErr_DlgBody"
+    },
+    "ShowPageErr_PageBtnRetry": {
+        "Ounce": "JetCrsShowPageErr_PageBtnRetry",
+        "NX": "CrsErr_RetryPageBtn"
+    },
+    "MemOverErr_DlgBody": {
+        "Ounce": "JetCrsMemOverErr_DlgBody",
+        "NX": "CrsErr_MemOverDlgBody"
+    },
+    "MemOverErr_DlgBtnReload": {
+        "Ounce": "JetCrsMemOverErr_DlgBtnReload",
+        "NX": "CrsErr_MemOverDlgBtnReload"
+    },
+    "MemOverErr_DlgBtnCancel": {
+        "Ounce": "Cmn_DlgBtnCancel",
+        "NX": "CrsErr_MemOverDlgBtnCancel"
+    },
+    "FileUploadErr_DlgBodyNotSupported": {
+        "Ounce": "JetCrsFileUploadErr_DlgBodyNotSupported",
+        "NX": "CrsErr_NomDlgDlgBodyFileUpload"
+    },
+    "MediaViewer_FooterClose": {
+        "Ounce": "JetCrsMediaViewer_FooterClose",
+        "NX": "CrsMediaViewer_FooterClose"
+    },
+    "MediaViewer_FooterHide": {
+        "Ounce": "JetCrsMediaViewer_FooterHide",
+        "NX": "CrsMediaViewer_FooterHide"
+    },
+    "Mp_FooterPlay": {
+        "Ounce": "JetCrsMp_FooterPlay",
+        "NX": "CrsMpFooterABtnPlay"
+    },
+    "Mp_FooterPause": {
+        "Ounce": "JetCrsMp_FooterPause",
+        "NX": "CrsMpFooterABtnPause"
+    },
+    "Mp_FooterClose": {
+        "Ounce": "JetCrsMp_FooterClose",
+        "NX": "CrsMpFooterBBtnFunction"
+    },
+    "Mp_FooterPlaySpeed": {
+        "Ounce": "JetCrsMp_FooterPlaySpeed",
+        "NX": "CrsMp_PlaySpeedFooter"
+    },
+    "Mp_FooterCc": {
+        "Ounce": "JetCrsMp_FooterCc",
+        "NX": "CrsMpFooterYBtnFunction"
+    },
+    "Mp_FooterYouTube": {
+        "Ounce": "JetCrsMp_FooterYouTube",
+        "NX": "CrsMp_FooterYouTube"
+    },
+    "Mp_FooterHide": {
+        "Ounce": "JetCrsMp_FooterHide",
+        "NX": "CrsMp_FooterPlusMinusBtnFunction"
+    },
+    "MpLive_Info": {
+        "Ounce": "JetCrsMpLive_Info",
+        "NX": "CrsMp_LiveInfoUI"
+    },
+    "MpYouTube_DlgBodyNeedApp": {
+        "Ounce": "JetCrsMpYouTube_DlgBodyNeedApp",
+        "NX": "CrsMp_NeedYouTubeAppDlgBodyAlert"
+    },
+    "MpYouTube_DlgBodyBootApp": {
+        "Ounce": "JetCrsMpYouTube_DlgBodyBootApp",
+        "NX": "CrsMp_BootYouTubeAppDlgBody"
+    },
+    "MpYouTube_DlgBodyBootAppAlert": {
+        "Ounce": "JetCrsMpYouTube_DlgBodyBootAppAlert",
+        "NX": "CrsMp_BootYouTubeAppDlgBodyAlert"
+    },
+    "MpYouTube_DlgBtnBoot": {
+        "Ounce": "Cmn_DlgBtnStart",
+        "NX": "CrsCmn_2BtnDlgBtnOK"
+    },
+    "MpSkip_FooterSkipBackward": {
+        "Ounce": "JetCrsMpSkip_FooterSkipBackward"
+    },
+    "MpSkip_FooterSkipForward": {
+        "Ounce": "JetCrsMpSkip_FooterSkipForward"
+    },
+    "MpSkip_BriefInfoSkipBackward": {
+        "Ounce": "JetCrsMpSkip_BriefInfoSkipBackward"
+    },
+    "MpSkip_BriefInfoSkipForward": {
+        "Ounce": "JetCrsMpSkip_BriefInfoSkipForward"
+    },
+    "MpSkip_BriefInfoSkipLength": {
+        "Ounce": "JetCrsMpSkip_BriefInfoSkipLength"
+    },
+    "MpSkip_MediaControlZLBtn": {
+        "NX": "CrsMpSkip_MediaControlZLBtn"
+    },
+    "MpSkip_MediaControlZRBtn": {
+        "NX": "CrsMpSkip_MediaControlZRBtn"
+    },
+    "MpErr_DlgBtnReload": {
+        "Ounce": "JetCrsMpErr_DlgBtnReload",
+        "NX": "CrsMp_FailedPlayingAndRetryDlgDlgBtnReload"
+    },
+    "BootEC_DlgBodyWeb2EC": {
+        "Ounce": "JetCrsBootEC_DlgBodyWeb2EC",
+        "NX": "CrsMain_Web2ECDlgBody"
+    },
+    "BootEC_DlgBodyMp2EC": {
+        "Ounce": "JetCrsBootEC_DlgBodyMp2EC",
+        "NX": "CrsMp_Mp2ECDlgBody"
+    },
+    "BootEC_DlgBtn": {
+        "Ounce": "JetCrsBootEC_DlgBtn",
+        "NX": "CrsCmn_BootECDlgBtn"
+    },
+    "DevTool_DlgBodyActivating": {
+        "Ounce": "JetCrsDevTool_DlgBodyActivating",
+        "NX": "CrsDev_ExplanationDlgDlgBody"
+    },
+    "DevTool_DlgBodyActivationFailed": {
+        "Ounce": "JetCrsDevTool_DlgBodyActivationFailed",
+        "NX": "CrsDev_FailedDlgDlgBody"
+    },
+    "DevTool_DlgBodyActivated": {
+        "Ounce": "JetCrsDevTool_DlgBodyActivated",
+        "NX": "CrsDev_ManualDlgDlgBody"
+    },
+    "CmnTTS_BtnSelected": {
+        "Ounce": "TTS_UiStatus_Toggle_Select"
+    },
+    "CmnTTS_BtnNotSelected": {
+        "Ounce": "TTS_UiStatus_Toggle_Unselect"
+    },
+    "CmnTTS_Btn": {
+        "Ounce": "TTS_UiComponentName_NormalButton"
+    },
+    "CmnTTS_RadioBtn": {
+        "Ounce": "TTS_UiComponentName_RadioButton"
+    },
+    "CmnTTS_VerticalList": {
+        "Ounce": "TTS_ListType_Vertical"
+    },
+    "CmnTTS_ListIndex": {
+        "Ounce": "TTS_ListIndexInfo"
+    },
+    "CmnTTS_FooterButtonAction": {
+        "Ounce": "TTS_FooterControl"
+    },
+    "CmnTTS_CmnQRCodeOnScreen": {
+        "Ounce": "TTS_QRCode_Inside"
+    },
+    "CmnTTS_SpeechNotSupported": {
+        "Ounce": "TTS_SpeechNotSupported_JetCruiser"
+    },
+    "SWKBDTTS_CaretPositionEnd": {
+        "Ounce": "Swkbd_TTS-CursorPos_Last"
+    },
+    "SWKBDTTS_BackSpace": {
+        "Ounce": "Swkbd_TTS-Backspace"
+    },
+    "SWKBDTTS_Delete": {
+        "Ounce": "Swkbd_TTS-Delete"
+    },
+    "SWKBDTTS_MaskedPassword": {
+        "Ounce": "Swkbd_TTS-HiddenCharacter"
+    }
+}

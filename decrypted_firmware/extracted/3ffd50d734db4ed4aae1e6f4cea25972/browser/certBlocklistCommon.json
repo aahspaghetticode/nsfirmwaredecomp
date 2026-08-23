@@ -1,0 +1,118 @@
+[
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "047ECBE9FCA55F7BD09EAE36E10CAE1E"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "F5C86AF36162F13A64F54F6DC9587C06"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "D7558FDAF5F1105BB213282B707729A3"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "392A434F0E07DF1F8AA305DE34E0C229"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "3E75CED46B693021218830AE86A82A71"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "E9028B9578E415DC1A710A2B88154447"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "9239D5348F40D1695A745470E1F23F43"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "B0B7133ED096F9B56FAE91C874BD3AC0"
+  },
+  {
+    "issuer": "UTN-USERFirst-Hardware",
+    "serial": "D8F35F4EB7872B2DAB0692E315382FB0"
+  },
+  {
+    "issuer": "DigiNotar Root CA",
+    "serial": null
+  },
+  {
+    "issuer": "DigiNotar Root CA G2",
+    "serial": null
+  },
+  {
+    "issuer": "Entrust.net Certification Authority (2048)",
+    "serial": "4C0E636A"
+  },
+  {
+    "issuer": "Entrust.net Secure Server Certification Authority",
+    "serial": "469C2CAF"
+  },
+  {
+    "issuer": "Entrust.net Secure Server Certification Authority",
+    "serial": "469C3CC9"
+  },
+  {
+    "issuer": "Entrust.net Secure Server Certification Authority",
+    "serial": "469C2CB0"
+  },
+  {
+    "issuer": "GTE CyberTrust Global Root",
+    "serial": "07270FF9"
+  },
+  {
+    "issuer": "GTE CyberTrust Global Root",
+    "serial": "0727100D"
+  },
+  {
+    "issuer": "GTE CyberTrust Global Root",
+    "serial": "07271003"
+  },
+  {
+    "issuer": "GTE CyberTrust Global Root",
+    "serial": "072714A9"
+  },
+  {
+    "issuer": "Staat der Nederlanden Organisatie CA - G2",
+    "serial": "013134BF"
+  },
+  {
+    "issuer": "Staat der Nederlanden Overheid CA",
+    "serial": "01314476"
+  },
+  {
+    "issuer": "Staat der Nederlanden Overheid CA",
+    "serial": "013169B0"
+  },
+  {
+    "issuer": "TÜRKTRUST Elektronik Sunucu Sertifikası Hizmetleri",
+    "serial": "0827"
+  },
+  {
+    "issuer": "TÜRKTRUST Elektronik Sunucu Sertifikası Hizmetleri",
+    "serial": "0864"
+  },
+  {
+    "issuer": "AC DGTPE Signature Authentification",
+    "serial": "031da7"
+  },
+  {
+    "issuer": "CCA India 2007",
+    "serial": "2783"
+  },
+  {
+    "issuer": "CCA India 2011",
+    "serial": "2792"
+  },
+  {
+    "issuer": "CCA India 2014",
+    "serial": "27b1"
+  },
+  {
+    "issuer": "CNNIC ROOT",
+    "serial": null
+  }
+]
